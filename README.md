@@ -1,8 +1,6 @@
 # AniList helper script
 ## Get a user's list contents into text files!
 
----
-
 ## About
 
 Script that does what it says. You give a username, select the type of list to generate (anime/manga), and it does everything for you.
