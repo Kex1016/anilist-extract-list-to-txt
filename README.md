@@ -1,5 +1,5 @@
 # AniList helper script
-## Get a user's list contents into text files!
+Get a user's list contents into text files!
 
 ## About
 
