@@ -1,0 +1,15 @@
+{
+  "name": "anilist-extract-list-to-txt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "node-fetch": "^3.2.0",
+    "prompts": "^2.4.2"
+  },
+  "type": "module",
+  "description": "Name explains everything. A tool to extract an AniList user's list contents' titles to plaintext.",
+  "repository": "https://github.com/Kex1016/anilist-extract-list-to-txt",
+  "author": "Kex1016"
+}
